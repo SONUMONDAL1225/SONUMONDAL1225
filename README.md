@@ -1,5 +1,4 @@
 #                                                                       💫 About Me:
-Hi, I'm Ayush Mondal!
 
 Hi, I'm Ayush Mondal!, Welcome to **Study Hub** — a platform created to make learning and exam preparation easier and more accessible.
 
