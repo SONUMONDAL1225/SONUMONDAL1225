@@ -1,7 +1,7 @@
 #                                                                       💫 About Me:
-# Hi, I'm Ayush Mondal! 👋
+Hi, I'm Ayush Mondal!
 
-Welcome to **Study Hub** — a platform created to make learning and exam preparation easier and more accessible.
+Hi, I'm Ayush Mondal!, Welcome to **Study Hub** — a platform created to make learning and exam preparation easier and more accessible.
 
 Here, I share and organize useful educational resources, including Previous Year Questions (PYQs), recommended reference books, exam preparation guides, important suggestions, and mock tests for JEE, NEET, State and Central Government examinations, Engineering, and various other entrance and competitive exams.
 
