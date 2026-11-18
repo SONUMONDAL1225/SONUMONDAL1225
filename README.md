@@ -1,7 +1,13 @@
 #                                                                       💫 About Me:
-Hi, I'm Ayush Mondal. Welcome to my Study Hub—a space dedicated to sharing PYQs, reference books, exam suggestions, and mock papers for JEE, NEET, State/Central Govt exams, and Engineering.
+# Hi, I'm Ayush Mondal! 👋
 
-Alongside curating study materials.
+Welcome to **Study Hub** — a platform created to make learning and exam preparation easier and more accessible.
+
+Here, I share and organize useful educational resources, including Previous Year Questions (PYQs), recommended reference books, exam preparation guides, important suggestions, and mock tests for JEE, NEET, State and Central Government examinations, Engineering, and various other entrance and competitive exams.
+
+My goal is to bring valuable study materials together in one place and help students prepare, practice, and move closer to their academic goals.
+
+**Learn • Practice • Grow • Succeed** 🚀
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SONUMONDAL1225&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
